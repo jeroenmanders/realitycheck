@@ -15,6 +15,7 @@ Descriptions of the three workflows follow.
 test
 ## `resource_class` workflow
 
+
 Tests all known `resource_class` options—queries the CircleCI API to verify that jobs ran with the requested resources.
 
 ### Prerequisites
